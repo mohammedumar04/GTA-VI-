@@ -163,7 +163,7 @@ function App () {
               <h1 className='text-[9rem] leading-none -ml-20 '>theft</h1>
               <h1 className='text-[9rem] leading-none -ml-60 '>auto</h1>
               </div>
-            <img className='character absolute -bottom-[90%] z-[10] x-[-50%] left-1/2 -translate-x-1/2 rotate-[-20deg] scale-[3]  ' src='./girlbg.png'  alt="" />
+            <img className='character absolute -bottom-[90%] left-1/2 -translate-x-1/2 rotate-[-20deg] scale-[3] z-[10] ' src='./girlbg.png'  alt="" />
             <div>
             <img className='logo-18 absolute bottom-10 left-228 -translate-x-1/2 h-[90px] z-[9]' src='./logo18.png'  alt="" />
             </div>
