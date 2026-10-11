@@ -68,7 +68,7 @@ function App () {
     gsap.to(".character",{
       scale:0.9,
       duration: 2,
-      x: "-50%",
+      // x: "-50%",
       bottom:"-65%",
       delay: "-0.8",
       rotate: 0,
