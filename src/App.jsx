@@ -180,7 +180,7 @@ function App () {
         <div className='w-full  h-screen flex justify-center items-center bg-black'>
           <div className='cntr w-full h-[80%] flex gap-10'>
             <div className='px-10 limg relative w-1/2 h-full'>
-              <img className='absolute h-[45rem] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 pl-20' src="./imag.png" alt="" />
+              <img className='absolute h-[45rem] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2' src="./imag.png" alt="" />
             </div>
             <div className='ml-30 rg py-10 text-white w-1/2'>
               <h1 className='text-6xl mb-2'>Still runnning</h1>
